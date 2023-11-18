@@ -1,0 +1,11 @@
+En esta carpeta encontrarás:
+  Introducción teórica a la relación entre el proyecto CanSat y un satélite real
+  Introducción a la programación con Arduino UNO a través de cuatro ejercicios. Para realizar estos ejercicios hay dos opciones:
+    Si dispone del material
+      Instalar el IDE de Arduino: El IDE de Arduino es el programa que nos va a permitir
+      programar nuestra tarjeta Arduino. Para instalarla, se puede descargar directamente de la
+      página oficial de Arduino para diferentes sistemas operativos:
+      https://www.arduino.cc/en/software
+  Si no dispone del material
+      Crear una cuenta de educador en Tinkercad: https://www.tinkercad.com/
+      Revisar: https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits
