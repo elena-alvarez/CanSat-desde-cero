@@ -1,7 +1,0 @@
-Ejercicio 1: Parpadeo de LED
-  Con integrado de Arduino: Pin 13
-  Conectando un LED externo a Arduino (LED más resistencia de protección)
-Ejercicio 2: Cambiar la frecuencia de parpadeo
-Ejercicio 3: Mensaje de SOS
-  Optimizar el código con el bucle for
-Ejercicio 4: Escribir el mensaje de SOS en el puerto serie
