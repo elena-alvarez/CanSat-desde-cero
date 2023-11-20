@@ -3,4 +3,5 @@ Desarrollo del proyecto CanSat: programación básica con Arduino UNO, temperatu
 
 Listas de reporoducción:
 Introducción Arduino: https://www.youtube.com/playlist?list=PLC6C1fGD_9F3hUQqaKEZ9vmGPmv8QrFey
+
 Sensor BMP280: https://www.youtube.com/playlist?list=PLC6C1fGD_9F2hPSitTkYFkxQpj2i16Z2K
