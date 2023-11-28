@@ -1,1 +1,3 @@
+Configuración del módulo de radio APC220 para enviar los datos recogidos por el sensor BMP280
 
+Enlace drivers APC220: https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
